@@ -30,6 +30,8 @@ Because of this the standard switch output of a Master Sysem region mod can not 
 
 That's it. Just a multiplexer and an inverter.
 
+![My Image](block-diagram.png)
+
 ## Why?
 
 1 - Because it was never previously possible to have a genuine PAL and a genuine NTSC Master System in one.
