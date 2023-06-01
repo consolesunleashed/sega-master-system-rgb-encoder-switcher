@@ -53,6 +53,14 @@ That's it. Just a multiplexer and an inverter.
 
 Others need to be tested but in theory it should work with any Master System that has a Z80 CPU, a SEGA 315-5237 IO IC, and a 4 pin master clock oscillator.
 
+## Mod Kit Variations
+
+There are two versions of this mod kit.
+
+1 - A quick solder board (QSB) PCB version that solders beneath the Z80 CPU.
+
+2 - A standard miniature PCB version which will need fully wiring. This version is intended for experimentation and checking console revision compatibility.
+
 ## Manufacturing
 
 - 1mm or 0.8mm PCB thickness are both fine.
