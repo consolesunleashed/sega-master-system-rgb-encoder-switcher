@@ -50,3 +50,8 @@ That's it. Just a multiplexer and an inverter.
 - Model 2 / PAL / 171-5922A
 
 Others need to be tested but in theory it should work with any Master System that has a Z80 CPU, a SEGA 315-5237 IO IC, and a 4 pin master clock oscillator.
+
+## Manufacturing
+
+- 1mm or 0.8mm PCB thickness are both fine.
+- Castellated vias are optional. There is only three cut vias and the board is thin which generally doesn't result in torn up copper platting. A little cleanup is usually necessary to remove debris from the half vias.
