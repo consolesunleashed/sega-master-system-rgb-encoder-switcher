@@ -2,6 +2,8 @@
 
 The Master System RGB Encoder Switcher is designed to allow a Master System to be modded for true PAL and true NTSC. It provides a way to switch the RGB Encoder, usually a CXA1145P or MB3514, between PAL and NTSC operating modes via Pin 7, and route the correct subcarrier clock to Pin 6.
 
+![My Image](sega-master-system-rgb-encoder-switcher.jpg)
+
 ## How?
 
 It's very simple.
