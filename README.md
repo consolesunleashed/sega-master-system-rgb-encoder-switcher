@@ -65,3 +65,9 @@ There are two versions of this mod kit.
 
 - 1mm or 0.8mm PCB thickness are both fine.
 - Castellated vias are optional. There is only three cut vias and the board is thin which generally doesn't result in torn up copper platting. A little cleanup is usually necessary to remove debris from the half vias.
+
+## License
+
+If you use this in any way, shape or form, you must include a link back to this repository and mention me by name on any sales pages and social media posts. Not only will this help me to keep designing mod kits and offering them to the community, but it is basic common courtesy as well. Don't be a douchebag. :)
+
+Also this 'GNU GENERAL PUBLIC LICENSE Version 2, June 1991'.
