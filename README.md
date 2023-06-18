@@ -61,6 +61,15 @@ There are two versions of this mod kit.
 
 2 - A standard miniature PCB version which will need fully wiring. This version is intended for experimentation and checking console revision compatibility.
 
+## Version History
+
+- RGB Encoder Switcher QSB v1         24/03/2023
+- RGB Encoder Switcher QSB v1.1       02/04/2023
+- RGB Encoder Switcher QSB v1.2       06/05/2023
+
+- RGB Encoder Switcher Standard v1    24/03/2023
+- RGB Encoder Switcher Standard v1.1  06/05/2023
+
 ## Manufacturing
 
 - 1mm or 0.8mm PCB thickness are both fine.
