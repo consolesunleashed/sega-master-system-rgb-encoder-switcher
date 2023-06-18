@@ -63,12 +63,14 @@ There are two versions of this mod kit.
 
 ## Version History
 
-- RGB Encoder Switcher QSB v1         24/03/2023
-- RGB Encoder Switcher QSB v1.1       02/04/2023
-- RGB Encoder Switcher QSB v1.2       06/05/2023
+Quick Solder Board
+- RGB Encoder Switcher QSB v1.0 - 24/03/2023
+- RGB Encoder Switcher QSB v1.1 - 02/04/2023
+- RGB Encoder Switcher QSB v1.2 - 06/05/2023
 
-- RGB Encoder Switcher Standard v1    24/03/2023
-- RGB Encoder Switcher Standard v1.1  06/05/2023
+Standard
+- RGB Encoder Switcher Standard v1.0 - 24/03/2023
+- RGB Encoder Switcher Standard v1.1 - 06/05/2023
 
 ## Manufacturing
 
